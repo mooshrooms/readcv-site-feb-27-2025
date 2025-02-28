@@ -1,0 +1,1042 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "mooshrooms",
+    "displayName": "Phuc Quach",
+    "profession": "Photographer",
+    "location": "Lahti, Finland",
+    "pronouns": "he/him",
+    "byline": "Photographer in Lahti, Finland, he/him",
+    "website": null,
+    "websiteURL": null,
+    "about": "I do photography as a hobby and I am currently majoring in Business Information Technology at LAB University of Applied Sciences. \\\n\\\nCurrently working as a video editor/graphic designer at Audicin Oy.\\\n\\\nMy current gear:\\\nFujifilm X-M1\\\n16-50mm f3.5-5.6",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": null
+  },
+  "projects": [
+    {
+      "id": "HdWXQ8AqmuG6RH2skCu5",
+      "year": "Ongoing",
+      "heading": "Overseas",
+      "url": null,
+      "collaborators": [],
+      "description": "Some of my pictures of Lahti, Finland while studying in LAB University of Applied Sciences.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Overseas-1.png"
+        },
+        {
+          "type": "image",
+          "width": 3939,
+          "height": 2954,
+          "url": "/content/media/Overseas-2.png"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Overseas-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2897,
+          "height": 3863,
+          "url": "/content/media/Overseas-4.png"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Overseas-5.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-6.png"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Overseas-7.png"
+        },
+        {
+          "type": "image",
+          "width": 2936,
+          "height": 3914,
+          "url": "/content/media/Overseas-8.png"
+        },
+        {
+          "type": "image",
+          "width": 2968,
+          "height": 2226,
+          "url": "/content/media/Overseas-9.png"
+        },
+        {
+          "type": "image",
+          "width": 3928,
+          "height": 2946,
+          "url": "/content/media/Overseas-10.png"
+        },
+        {
+          "type": "image",
+          "width": 3928,
+          "height": 2946,
+          "url": "/content/media/Overseas-11.png"
+        },
+        {
+          "type": "image",
+          "width": 3987,
+          "height": 2990,
+          "url": "/content/media/Overseas-12.png"
+        },
+        {
+          "type": "image",
+          "width": 3987,
+          "height": 2990,
+          "url": "/content/media/Overseas-13.png"
+        },
+        {
+          "type": "image",
+          "width": 2962,
+          "height": 3949,
+          "url": "/content/media/Overseas-14.png"
+        },
+        {
+          "type": "image",
+          "width": 2297,
+          "height": 3062,
+          "url": "/content/media/Overseas-15.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-16.png"
+        },
+        {
+          "type": "image",
+          "width": 1822,
+          "height": 2429,
+          "url": "/content/media/Overseas-17.png"
+        },
+        {
+          "type": "image",
+          "width": 3001,
+          "height": 4001,
+          "url": "/content/media/Overseas-18.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-19.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-20.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-21.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-22.png"
+        },
+        {
+          "type": "image",
+          "width": 1527,
+          "height": 2036,
+          "url": "/content/media/Overseas-23.png"
+        },
+        {
+          "type": "image",
+          "width": 2372,
+          "height": 3163,
+          "url": "/content/media/Overseas-24.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-25.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-26.png"
+        },
+        {
+          "type": "image",
+          "width": 2328,
+          "height": 3104,
+          "url": "/content/media/Overseas-27.png"
+        },
+        {
+          "type": "image",
+          "width": 1995,
+          "height": 2660,
+          "url": "/content/media/Overseas-28.png"
+        },
+        {
+          "type": "image",
+          "width": 1880,
+          "height": 2507,
+          "url": "/content/media/Overseas-29.png"
+        },
+        {
+          "type": "image",
+          "width": 2872,
+          "height": 3830,
+          "url": "/content/media/Overseas-30.png"
+        },
+        {
+          "type": "image",
+          "width": 920,
+          "height": 1226,
+          "url": "/content/media/Overseas-31.png"
+        },
+        {
+          "type": "image",
+          "width": 2132,
+          "height": 1599,
+          "url": "/content/media/Overseas-32.png"
+        },
+        {
+          "type": "image",
+          "width": 3692,
+          "height": 2769,
+          "url": "/content/media/Overseas-33.png"
+        },
+        {
+          "type": "image",
+          "width": 2783,
+          "height": 3711,
+          "url": "/content/media/Overseas-34.png"
+        },
+        {
+          "type": "image",
+          "width": 2783,
+          "height": 3711,
+          "url": "/content/media/Overseas-35.png"
+        },
+        {
+          "type": "image",
+          "width": 3009,
+          "height": 4012,
+          "url": "/content/media/Overseas-36.png"
+        },
+        {
+          "type": "image",
+          "width": 2356,
+          "height": 3141,
+          "url": "/content/media/Overseas-37.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-38.png"
+        },
+        {
+          "type": "image",
+          "width": 2140,
+          "height": 2853,
+          "url": "/content/media/Overseas-39.png"
+        },
+        {
+          "type": "image",
+          "width": 2624,
+          "height": 3498,
+          "url": "/content/media/Overseas-40.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Overseas-41.png"
+        }
+      ],
+      "type": "project",
+      "title": "Overseas",
+      "company": ""
+    },
+    {
+      "id": "FSv3ssR8pAop29CWpLf2",
+      "year": "Ongoing",
+      "heading": "editing with Adobe Premiere Pro",
+      "url": null,
+      "collaborators": [],
+      "description": "some light editing I did with Premiere Pro.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 690,
+          "height": 480,
+          "url": "/content/media/editing-with-Adobe-Premiere-Pro-1.mp4"
+        },
+        {
+          "type": "video",
+          "width": 640,
+          "height": 360,
+          "url": "/content/media/editing-with-Adobe-Premiere-Pro-2.mp4"
+        },
+        {
+          "type": "video",
+          "width": 642,
+          "height": 480,
+          "url": "/content/media/editing-with-Adobe-Premiere-Pro-3.mp4"
+        }
+      ],
+      "type": "project",
+      "title": "editing with Adobe Premiere Pro",
+      "company": ""
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "U8iccGpenkEcFZH497Au",
+      "year": "Ongoing",
+      "heading": "editing with Adobe Lightroom",
+      "url": null,
+      "collaborators": [],
+      "description": "* Picked up Lightroom in September-October 2024",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4896,
+          "height": 2760,
+          "url": "/content/media/editing-with-Adobe-Lightroom-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2756,
+          "height": 4889,
+          "url": "/content/media/editing-with-Adobe-Lightroom-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2757,
+          "height": 4890,
+          "url": "/content/media/editing-with-Adobe-Lightroom-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2755,
+          "height": 4887,
+          "url": "/content/media/editing-with-Adobe-Lightroom-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2209,
+          "height": 3927,
+          "url": "/content/media/editing-with-Adobe-Lightroom-5.jpg"
+        },
+        {
+          "type": "image",
+          "width": 934,
+          "height": 1661,
+          "url": "/content/media/editing-with-Adobe-Lightroom-6.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2760,
+          "height": 4896,
+          "url": "/content/media/editing-with-Adobe-Lightroom-7.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2760,
+          "height": 4896,
+          "url": "/content/media/editing-with-Adobe-Lightroom-8.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2702,
+          "height": 4794,
+          "url": "/content/media/editing-with-Adobe-Lightroom-9.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2715,
+          "height": 4816,
+          "url": "/content/media/editing-with-Adobe-Lightroom-10.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2732,
+          "height": 4846,
+          "url": "/content/media/editing-with-Adobe-Lightroom-11.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2744,
+          "height": 4867,
+          "url": "/content/media/editing-with-Adobe-Lightroom-12.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2739,
+          "height": 4859,
+          "url": "/content/media/editing-with-Adobe-Lightroom-13.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2746,
+          "height": 4871,
+          "url": "/content/media/editing-with-Adobe-Lightroom-14.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2749,
+          "height": 4877,
+          "url": "/content/media/editing-with-Adobe-Lightroom-15.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4896,
+          "height": 2760,
+          "url": "/content/media/editing-with-Adobe-Lightroom-16.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "editing with Adobe Lightroom",
+      "company": ""
+    },
+    {
+      "id": "S7IzSS7GxvJQ4FJfmzaJ",
+      "year": "Ongoing",
+      "heading": "editing with Adobe Photoshop",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1920,
+          "url": "/content/media/editing-with-Adobe-Photoshop-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3228,
+          "height": 3032,
+          "url": "/content/media/editing-with-Adobe-Photoshop-2.png"
+        },
+        {
+          "type": "image",
+          "width": 444,
+          "height": 444,
+          "url": "/content/media/editing-with-Adobe-Photoshop-3.png"
+        },
+        {
+          "type": "image",
+          "width": 563,
+          "height": 555,
+          "url": "/content/media/editing-with-Adobe-Photoshop-4.png"
+        },
+        {
+          "type": "image",
+          "width": 1518,
+          "height": 905,
+          "url": "/content/media/editing-with-Adobe-Photoshop-5.png"
+        },
+        {
+          "type": "image",
+          "width": 748,
+          "height": 749,
+          "url": "/content/media/editing-with-Adobe-Photoshop-6.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "editing with Adobe Photoshop",
+      "company": ""
+    },
+    {
+      "id": "oaYtmkPl2JgV4FtT1MBi",
+      "year": "Ongoing",
+      "heading": "Editing with Adobe After Effects",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 854,
+          "height": 480,
+          "url": "/content/media/Editing-with-Adobe-After-Effects-1.mp4"
+        },
+        {
+          "type": "video",
+          "width": 876,
+          "height": 494,
+          "url": "/content/media/Editing-with-Adobe-After-Effects-2.mp4"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Editing with Adobe After Effects",
+      "company": ""
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "C25djwNG5HxAw8WF4TOH",
+      "year": "2024 — Now",
+      "heading": "Bachelor's of Business Administration in Business Information Technology at LAB University of Applied Sciences",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor's of Business Administration in Business Information Technology",
+      "school": "LAB University of Applied Sciences",
+      "location": "Lahti, Finland"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "JbVzvhKJRA7svfFsS6uD",
+      "platform": "Instagram",
+      "handle": "notmooshrooms",
+      "url": "https://instagram.com/notmooshrooms"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "HdWXQ8AqmuG6RH2skCu5",
+          "year": "Ongoing",
+          "heading": "Overseas",
+          "url": null,
+          "collaborators": [],
+          "description": "Some of my pictures of Lahti, Finland while studying in LAB University of Applied Sciences.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Overseas-1.png"
+            },
+            {
+              "type": "image",
+              "width": 3939,
+              "height": 2954,
+              "url": "/content/media/Overseas-2.png"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Overseas-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2897,
+              "height": 3863,
+              "url": "/content/media/Overseas-4.png"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Overseas-5.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-6.png"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Overseas-7.png"
+            },
+            {
+              "type": "image",
+              "width": 2936,
+              "height": 3914,
+              "url": "/content/media/Overseas-8.png"
+            },
+            {
+              "type": "image",
+              "width": 2968,
+              "height": 2226,
+              "url": "/content/media/Overseas-9.png"
+            },
+            {
+              "type": "image",
+              "width": 3928,
+              "height": 2946,
+              "url": "/content/media/Overseas-10.png"
+            },
+            {
+              "type": "image",
+              "width": 3928,
+              "height": 2946,
+              "url": "/content/media/Overseas-11.png"
+            },
+            {
+              "type": "image",
+              "width": 3987,
+              "height": 2990,
+              "url": "/content/media/Overseas-12.png"
+            },
+            {
+              "type": "image",
+              "width": 3987,
+              "height": 2990,
+              "url": "/content/media/Overseas-13.png"
+            },
+            {
+              "type": "image",
+              "width": 2962,
+              "height": 3949,
+              "url": "/content/media/Overseas-14.png"
+            },
+            {
+              "type": "image",
+              "width": 2297,
+              "height": 3062,
+              "url": "/content/media/Overseas-15.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-16.png"
+            },
+            {
+              "type": "image",
+              "width": 1822,
+              "height": 2429,
+              "url": "/content/media/Overseas-17.png"
+            },
+            {
+              "type": "image",
+              "width": 3001,
+              "height": 4001,
+              "url": "/content/media/Overseas-18.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-19.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-20.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-21.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-22.png"
+            },
+            {
+              "type": "image",
+              "width": 1527,
+              "height": 2036,
+              "url": "/content/media/Overseas-23.png"
+            },
+            {
+              "type": "image",
+              "width": 2372,
+              "height": 3163,
+              "url": "/content/media/Overseas-24.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-25.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-26.png"
+            },
+            {
+              "type": "image",
+              "width": 2328,
+              "height": 3104,
+              "url": "/content/media/Overseas-27.png"
+            },
+            {
+              "type": "image",
+              "width": 1995,
+              "height": 2660,
+              "url": "/content/media/Overseas-28.png"
+            },
+            {
+              "type": "image",
+              "width": 1880,
+              "height": 2507,
+              "url": "/content/media/Overseas-29.png"
+            },
+            {
+              "type": "image",
+              "width": 2872,
+              "height": 3830,
+              "url": "/content/media/Overseas-30.png"
+            },
+            {
+              "type": "image",
+              "width": 920,
+              "height": 1226,
+              "url": "/content/media/Overseas-31.png"
+            },
+            {
+              "type": "image",
+              "width": 2132,
+              "height": 1599,
+              "url": "/content/media/Overseas-32.png"
+            },
+            {
+              "type": "image",
+              "width": 3692,
+              "height": 2769,
+              "url": "/content/media/Overseas-33.png"
+            },
+            {
+              "type": "image",
+              "width": 2783,
+              "height": 3711,
+              "url": "/content/media/Overseas-34.png"
+            },
+            {
+              "type": "image",
+              "width": 2783,
+              "height": 3711,
+              "url": "/content/media/Overseas-35.png"
+            },
+            {
+              "type": "image",
+              "width": 3009,
+              "height": 4012,
+              "url": "/content/media/Overseas-36.png"
+            },
+            {
+              "type": "image",
+              "width": 2356,
+              "height": 3141,
+              "url": "/content/media/Overseas-37.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-38.png"
+            },
+            {
+              "type": "image",
+              "width": 2140,
+              "height": 2853,
+              "url": "/content/media/Overseas-39.png"
+            },
+            {
+              "type": "image",
+              "width": 2624,
+              "height": 3498,
+              "url": "/content/media/Overseas-40.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Overseas-41.png"
+            }
+          ],
+          "type": "project",
+          "title": "Overseas",
+          "company": ""
+        },
+        {
+          "id": "FSv3ssR8pAop29CWpLf2",
+          "year": "Ongoing",
+          "heading": "editing with Adobe Premiere Pro",
+          "url": null,
+          "collaborators": [],
+          "description": "some light editing I did with Premiere Pro.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 690,
+              "height": 480,
+              "url": "/content/media/editing-with-Adobe-Premiere-Pro-1.mp4"
+            },
+            {
+              "type": "video",
+              "width": 640,
+              "height": 360,
+              "url": "/content/media/editing-with-Adobe-Premiere-Pro-2.mp4"
+            },
+            {
+              "type": "video",
+              "width": 642,
+              "height": 480,
+              "url": "/content/media/editing-with-Adobe-Premiere-Pro-3.mp4"
+            }
+          ],
+          "type": "project",
+          "title": "editing with Adobe Premiere Pro",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "U8iccGpenkEcFZH497Au",
+          "year": "Ongoing",
+          "heading": "editing with Adobe Lightroom",
+          "url": null,
+          "collaborators": [],
+          "description": "* Picked up Lightroom in September-October 2024",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4896,
+              "height": 2760,
+              "url": "/content/media/editing-with-Adobe-Lightroom-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2756,
+              "height": 4889,
+              "url": "/content/media/editing-with-Adobe-Lightroom-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2757,
+              "height": 4890,
+              "url": "/content/media/editing-with-Adobe-Lightroom-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2755,
+              "height": 4887,
+              "url": "/content/media/editing-with-Adobe-Lightroom-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2209,
+              "height": 3927,
+              "url": "/content/media/editing-with-Adobe-Lightroom-5.jpg"
+            },
+            {
+              "type": "image",
+              "width": 934,
+              "height": 1661,
+              "url": "/content/media/editing-with-Adobe-Lightroom-6.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2760,
+              "height": 4896,
+              "url": "/content/media/editing-with-Adobe-Lightroom-7.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2760,
+              "height": 4896,
+              "url": "/content/media/editing-with-Adobe-Lightroom-8.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2702,
+              "height": 4794,
+              "url": "/content/media/editing-with-Adobe-Lightroom-9.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2715,
+              "height": 4816,
+              "url": "/content/media/editing-with-Adobe-Lightroom-10.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2732,
+              "height": 4846,
+              "url": "/content/media/editing-with-Adobe-Lightroom-11.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2744,
+              "height": 4867,
+              "url": "/content/media/editing-with-Adobe-Lightroom-12.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2739,
+              "height": 4859,
+              "url": "/content/media/editing-with-Adobe-Lightroom-13.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2746,
+              "height": 4871,
+              "url": "/content/media/editing-with-Adobe-Lightroom-14.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2749,
+              "height": 4877,
+              "url": "/content/media/editing-with-Adobe-Lightroom-15.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4896,
+              "height": 2760,
+              "url": "/content/media/editing-with-Adobe-Lightroom-16.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "editing with Adobe Lightroom",
+          "company": ""
+        },
+        {
+          "id": "S7IzSS7GxvJQ4FJfmzaJ",
+          "year": "Ongoing",
+          "heading": "editing with Adobe Photoshop",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1920,
+              "url": "/content/media/editing-with-Adobe-Photoshop-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3228,
+              "height": 3032,
+              "url": "/content/media/editing-with-Adobe-Photoshop-2.png"
+            },
+            {
+              "type": "image",
+              "width": 444,
+              "height": 444,
+              "url": "/content/media/editing-with-Adobe-Photoshop-3.png"
+            },
+            {
+              "type": "image",
+              "width": 563,
+              "height": 555,
+              "url": "/content/media/editing-with-Adobe-Photoshop-4.png"
+            },
+            {
+              "type": "image",
+              "width": 1518,
+              "height": 905,
+              "url": "/content/media/editing-with-Adobe-Photoshop-5.png"
+            },
+            {
+              "type": "image",
+              "width": 748,
+              "height": 749,
+              "url": "/content/media/editing-with-Adobe-Photoshop-6.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "editing with Adobe Photoshop",
+          "company": ""
+        },
+        {
+          "id": "oaYtmkPl2JgV4FtT1MBi",
+          "year": "Ongoing",
+          "heading": "Editing with Adobe After Effects",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 854,
+              "height": 480,
+              "url": "/content/media/Editing-with-Adobe-After-Effects-1.mp4"
+            },
+            {
+              "type": "video",
+              "width": 876,
+              "height": 494,
+              "url": "/content/media/Editing-with-Adobe-After-Effects-2.mp4"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Editing with Adobe After Effects",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "C25djwNG5HxAw8WF4TOH",
+          "year": "2024 — Now",
+          "heading": "Bachelor's of Business Administration in Business Information Technology at LAB University of Applied Sciences",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor's of Business Administration in Business Information Technology",
+          "school": "LAB University of Applied Sciences",
+          "location": "Lahti, Finland"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "JbVzvhKJRA7svfFsS6uD",
+          "platform": "Instagram",
+          "handle": "notmooshrooms",
+          "url": "https://instagram.com/notmooshrooms"
+        }
+      ]
+    }
+  ]
+}

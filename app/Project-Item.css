@@ -1,0 +1,83 @@
+.project-item-container {
+margin: 45px 1vw;
+}
+
+.title-description-container {
+width:100%;
+  max-width:500px;
+}
+
+.details-left {
+  display: flex;
+  flex-direction: column; /* Stack title, year, and other details vertically */
+}
+
+.description-right {
+  text-align: left;
+}
+
+.project-title {
+  text-align: left;
+}
+
+.project-description {
+  margin: 0;
+  text-align: left;
+  max-width: 100%; /* Ensure description takes the full width of the column */
+}
+
+
+.main-media-display {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.side-by-side-media {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  width: calc(100% * 2);
+}
+
+.media-item {
+  flex-shrink: 0;
+  width: 50%;
+}
+
+.media-content {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.thumbnail-container {
+  display: flex;
+  justify-content: left;
+  width: 100%;
+  margin:20px 0;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.thumbnail-wrapper {
+  display: flex;
+}
+
+.thumbnail {
+  display: inline-block;
+  border: 2px solid transparent;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: border-color 0.3s ease;
+}
+
+.thumbnail.active {
+  border-color: var(--color);
+}
+
+.back-to-gallery-button{
+text-align:left;
+  margin:10px 0 20px;
+}

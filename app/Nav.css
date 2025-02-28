@@ -1,0 +1,78 @@
+/* Navigation bar styling */
+.navigation-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Vertically center all elements */
+  padding: 1.5vh 1vw;
+   background: var(--background); /* Semi-transparent background */
+  backdrop-filter: blur(10px); /* Creates the blurred effect */
+  -webkit-backdrop-filter: blur(10px); /* Safari-specific prefix */
+  color: var(--color);
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+/* Button for site title and navigation links */
+button {
+  background: none;
+  border: none;
+  font-size: var(--font-size);
+  cursor: pointer;
+  color: var(--color);
+  padding: 0; /* Remove any default padding */
+  margin: 0; /* Remove any default margin */
+  line-height: 1; /* Keep the line-height consistent */
+  vertical-align: middle; /* Align text vertically */
+  transition: opacity 0.25s ease-in-out; /* Smooth transition for fade */
+}
+
+button.active, 
+button:hover {
+  opacity: var(--opacity);
+}
+
+
+
+/* Align site title and current project text */
+.title-project {
+  display: flex;
+  align-items: center; /* Vertically center title and current project */
+  gap: 1vw; /* Space between title and current project name */
+}
+
+/* Navigation links */
+.nav-links {
+  display: flex;
+  align-items: center; /* Vertically center navigation links */
+  gap: 5px;
+}
+
+.nav-links li {
+  list-style: none;
+}
+
+/* Styling for current project */
+.current-project {
+  text-align: left;
+  transition: opacity 0.2s ease-in-out; /* Smooth transition for fade */
+  line-height: 1; /* Set consistent line-height */
+  vertical-align: middle; /* Ensure it's vertically aligned */
+  display: flex;
+  align-items: center; /* Ensure vertical alignment inside flex */
+}
+
+/* Fade-out and fade-in classes for project name transitions */
+.fade-out {
+  opacity: 0; /* Fades out when the project name changes */
+}
+
+.fade-in {
+  opacity: var(--opacity); /* Fades in the new project name */
+}
+
+.profile-status-text{
+opacity:0.4;
+}

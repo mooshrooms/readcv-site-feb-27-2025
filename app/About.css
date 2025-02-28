@@ -1,0 +1,28 @@
+/* General section styling */
+.section {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+  margin:2vh 1vw; 
+}
+
+/* About section */
+.about-section {
+  margin-top:4rem;
+  max-width:800px;
+  /* Placeholder for future styling related to the About section */
+}
+
+/* Contact section */
+.contact-section {
+  /* Placeholder for future styling related to the Contact section */
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-item {
+  /* Placeholder for future styling related to Contact items */
+}

@@ -1,0 +1,40 @@
+/* Target only images and videos inside the keen-slider */
+.keen-slider img, .keen-slider video {
+  display: block;
+  width: 100%; /* Make sure the media fills the container width */
+  height: 100%; /* Make sure the media fills the container height */
+  object-fit: cover; /* The image/video will be cropped to fill the container */
+}
+
+/* Keen Slider container and layout */
+.keen-slider {
+  
+  display: flex;
+  flex-direction: row;
+  overflow: hidden; /* Hides overflow to ensure only visible slides are shown */
+  height: calc(100vh - 1.5vh);/* Full viewport height */
+  position: relative;
+
+}
+
+/* Each slide */
+.keen-slider__slide {
+   cursor: pointer; 
+  display: flex; /* Use flexbox to align content */
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
+  max-width: 300px; /* Limit each slide's width to 300px */
+  height: 100vh; /* Full viewport height */
+  flex-shrink: 0; /* Prevents slides from shrinking */
+  scroll-snap-align: center; /* Center-aligns each slide */
+  box-sizing: border-box; /* Includes padding and border in the element’s total width and height */
+}
+
+/* Description under the gallery */
+.gallery-description {
+ margin:1.5vh 1vw 20vh 1vw;
+  max-width:600px;
+}
+
+.gallery-description p {
+}

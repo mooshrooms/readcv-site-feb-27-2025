@@ -1,0 +1,61 @@
+.sort-buttons {
+  padding:1.5vh 0;
+  border-bottom: 1px solid #ddd;
+  margin:0 1vw;
+}
+
+.sort-buttons button {
+ 
+}
+
+.sort-buttons button.active {
+
+}
+
+.sort-buttons span {
+}
+
+.hover-preview {
+  transition: transform 0.1s ease, opacity 0.1s ease;
+  opacity: 0.9;
+  transform: translate(-50%, -50%);
+}
+
+.project-list {
+  list-style-type: none; /* Remove default list styling */
+  padding: 0; /* Remove default padding */
+  margin: 0 1vw;
+}
+
+.project-item {
+  cursor: pointer; 
+  border-bottom: 1px solid #ddd; /* Border at the bottom of each item */
+  padding: 1.5vh 0; /* Add padding for spacing */
+  margin: 0; /* Remove margin to avoid extra spacing */
+  display: flex; /* Align items horizontally */
+  justify-content: space-between; /* Push items to opposite sides */
+  align-items: center; /* Vertically center content */
+}
+
+.project-item .view {
+  margin-left: auto; /* Push "view" to the right */
+  opacity: 1; /* Default opacity */
+  transition: opacity 0.2s ease; /* Smooth transition */
+}
+
+.project-item:hover .view {
+  opacity: var(--opacity); /* Change opacity on hover */
+}
+
+.project-item h3 {
+  margin: 0; /* Remove default margin for h3 */
+}
+
+.project-item:first-child {
+  border-top: none; /* Remove top border for the first item */
+}
+
+.project-item:last-child {
+  border-bottom: none; /* Remove bottom border for the last item */
+}
+
